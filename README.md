@@ -15,3 +15,4 @@
 ### 1. Установка зависимостей
 ```bash
 pip install -r requirements.txt# Sprint_6
+# Sprint_6
